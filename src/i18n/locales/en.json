@@ -1,0 +1,237 @@
+{
+  "locale": {
+    "en": "English",
+    "ru": "Russian",
+    "ariaOpenList": "Click to open the choice",
+    "ariaChoose": "Choose a language"
+  },
+  "meta": {
+    "home": {
+      "title": "Comforty",
+      "description": "Comforty. A wide selection of chairs, armchairs, sofas and other furniture for your home. High-quality and stylish products at affordable prices. Fast delivery and quality assurance."
+    },
+    "products": {
+      "title": "Comforty — Products",
+      "description": "Comforty. Page with all the products of the store"
+    },
+    "cart": {
+      "title": "Comforty — Cart",
+      "description": "Comforty. A page with a cart of products"
+    },
+    "favorites": {
+      "title": "Comforty — Favorites",
+      "description": "Comforty. Page with a favorites of products"
+    }
+  },
+  "nav": {
+    "top": {
+      "info": "Free shipping on all orders over $50",
+      "faq": "Faqs",
+      "help": "Need Help"
+    },
+    "middle": {
+      "logo": "Go to Home Page",
+      "search": {
+        "inputAria": "Search for products",
+        "inputPlaceholder": "Search here...",
+        "buttonAria": "Click for search"
+      },
+      "cart": {
+        "link": "Go to the cart",
+        "more": "no products | add 1 more product | add {count} more products",
+        "aria": "Open Cart",
+        "ariaClose": "Close Cart"
+      },
+      "favorite": "Open favorites products"
+    },
+    "bottom": {
+      "categories": {
+        "text": "All Categories",
+        "aria": "Click to open the list with all categories"
+      },
+      "list": [
+        { "link": "home", "title": "Home" },
+        { "link": "products", "title": "Products" },
+        { "anchor": "#reviews", "title": "Reviews" },
+        { "anchor": "#footer", "title": "Contact" }
+      ],
+      "contact": "Contact"
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "products": "Products",
+      "cart": "Cart",
+      "favorites": "Favorites"
+    },
+    "menu": {
+      "category": "Categories",
+      "ariaClose": "Close the navigation menu"
+    }
+  },
+  "product": {
+    "attr": {
+      "newest": "New",
+      "sales": "Sales"
+    },
+    "aria": {
+      "favorite": "Click to add to favorites",
+      "cart": "Click to add to cart",
+      "add": "Add to cart",
+      "remove": "Remove from cart",
+      "like": "Like this product",
+      "dislike": "Dislike this product"
+    }
+  },
+  "categories": {
+    "modal": {
+      "title": "All categories",
+      "closeAria": "Click to close the category selection"
+    },
+    "count": "Empty | {count} Product | {count} Products"
+  },
+  "blocks": {
+    "promo": {
+      "discount": "Discount",
+      "link": "Shop now",
+      "carouselAria": "Gallery of promo products",
+      "about": {
+        "discount": {
+          "title": "Discount",
+          "description": "Every week new sales"
+        },
+        "delivery": {
+          "title": "Free delivery",
+          "description": "100% Free for all orders"
+        },
+        "support": {
+          "title": "Great support",
+          "description": "We care your experiences"
+        },
+        "payment": {
+          "title": "Secure payment",
+          "description": "100% Secure Payment Method"
+        }
+      }
+    },
+    "featured": {
+      "title": "Featured products",
+      "carouselAria": "Gallery of featured products"
+    },
+    "categories": {
+      "title": "Top categories",
+      "carouselAria": "Gallery of top categories"
+    },
+    "products": {
+      "title": "Our products",
+      "carouselAria": "Gallery of our products"
+    },
+    "reviews": {
+      "title": "What client says about us",
+      "carouselAria": "Gallery of reviews"
+    },
+    "newest": {
+      "title": "Recently added",
+      "carouselAria": "Gallery of recently added products"
+    },
+    "footer": {
+      "description": "Vivamus tristique odio sit amet velit semper, eu posuere turpis interdum.<br>Cras egestas purus",
+      "categoriesTitle": "Categories",
+      "supportTitle": "Support",
+      "newsletterTitle": "Newsletter",
+      "newsletterSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt erat enim.",
+      "list": {
+        "categories": [
+          { "link": "sofa", "title": "Sofa" },
+          { "link": "armchair", "title": "Armchair" },
+          { "link": "windchair", "title": "Wind Chair" },
+          { "link": "deskchair", "title": "Desk Chair" },
+          { "link": "woodenchair", "title": "Wooden Chair" },
+          { "link": "parkbench", "title": "Park Bench" }
+        ],
+        "support": [
+          { "link": "#", "title": "Help & Support" },
+          { "link": "#", "title": "Tearms & Conditions" },
+          { "link": "#", "title": "Privacy Policy" },
+          { "link": "#", "title": "Help" }
+        ]
+      }
+    }
+  },
+  "pages": {
+    "products": {
+      "category": {
+        "title": "All categories"
+      },
+      "sorting": {
+        "label": "Sorting",
+        "aria": "Open sorting dropdown",
+        "default": "All"
+      },
+      "filter": {
+        "title": "Filters",
+        "categories": "Categories",
+        "price": "Price",
+        "ariaLabel": "Sort by category",
+        "ariaList": "List categories",
+        "ariaOpen": "Open a modal window with product filters",
+        "ariaClose": "Close a modal window with product filters"
+      },
+      "pagination": {
+        "prev": "Prev",
+        "next": "Next"
+      },
+      "notFoundTitle": "Oops :(",
+      "notFoundSubtitle": "Nothing was found on the specified filters"
+    },
+    "product": {
+      "category": "Category",
+      "description": "Description",
+      "price": "Price",
+      "cart": "Add to cart"
+    },
+    "cart": {
+      "title": "Cart",
+      "products": "Go to the products",
+      "count": "No products | 1 product | {count} products",
+      "notFoundTitle": "Your shopping cart is empty",
+      "notFoundSubtitle": "Go to the product catalog",
+      "clear": "Clear cart",
+      "ariaDelete": "Click to remove a product from the cart",
+      "modal": {
+        "title": "Confirmation",
+        "description": "Are you sure you want to clear the cart?",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "ariaClose": "Close confirmation"
+      }
+    },
+    "favorites": {
+      "title": "Favorite products",
+      "products": "Go to products",
+      "count": "No products | 1 product | {count} products",
+      "notFoundTitle": "Add what you like",
+      "notFoundSubtitle": "Go to the product catalog and click on ♡ in the product",
+      "clear": "Clear favorites",
+      "ariaDelete": "Click to remove item from favorites",
+      "modal": {
+        "title": "Confirmation",
+        "description": "Are you sure you want to clear favorites?",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "ariaClose": "Close confirmation"
+      }
+    }
+  },
+  "carousel": {
+    "prevAria": "Navigate to previous slide",
+    "nextAria": "Navigate to next slide"
+  },
+  "social": {
+    "aria": "Go to our"
+  },
+  "newsletter": {
+    "inputAria": "Enter your email",
+    "inputPlaceholder": "Your email",
+    "buttonText": "Subscribe"
+  }
+}

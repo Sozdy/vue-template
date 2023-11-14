@@ -1,0 +1,237 @@
+{
+  "locale": {
+    "en": "Английский",
+    "ru": "Русский",
+    "ariaOpenList": "Нажмите чтобы открыть выбор языка",
+    "ariaChoose": "Выбрать язык"
+  },
+  "meta": {
+    "home": {
+      "title": "Comforty",
+      "description": "Comforty. Широкий выбор стульев, кресел, диванов и другой мебели для вашего дома. Качественные и стильные изделия по доступным ценам. Быстрая доставка и гарантия качества."
+    },
+    "products": {
+      "title": "Comforty — Продукты",
+      "description": "Comforty. Страница со всеми продуктами магазина"
+    },
+    "cart": {
+      "title": "Comforty — Корзина",
+      "description": "Comforty. Страница с корзиной товаров"
+    },
+    "favorites": {
+      "title": "Comforty — Favorites",
+      "description": "Comforty. Страница с избранныи товарами"
+    }
+  },
+  "nav": {
+    "top": {
+      "info": "Бесплатная доставка по всем заказам $50",
+      "faq": "Вопросы и ответы",
+      "help": "Помощь"
+    },
+    "middle": {
+      "logo": "Вернуться на главную страницу",
+      "search": {
+        "inputAria": "Искать товары",
+        "inputPlaceholder": "Поиск...",
+        "buttonAria": "Нажмите для поиска"
+      },
+      "cart": {
+        "link": "Перейти в корзину",
+        "more": "нет продуктов | ещё {count} продукт | ещё {count} продукта | ещё {count} продуктов",
+        "aria": "Открыть корзину покупок",
+        "ariaClose": "Закрыть корзину покупок"
+      },
+      "favorite": "Открыть избранные товары"
+    },
+    "bottom": {
+      "categories": {
+        "text": "Все категории",
+        "aria": "Нажмите чтобы раскрыть список со всеми категориями"
+      },
+      "list": [
+        { "link": "home", "title": "Главная" },
+        { "link": "products", "title": "Продукты" },
+        { "anchor": "#reviews", "title": "Отзывы" },
+        { "anchor": "#footer", "title": "Контакты" }
+      ],
+      "contact": "Контакты"
+    },
+    "breadcrumbs": {
+      "home": "Главная",
+      "products": "Продукты",
+      "cart": "Корзина",
+      "favorites": "Избранные"
+    },
+    "menu": {
+      "category": "Категории",
+      "ariaClose": "Закрыть навигационное меню"
+    }
+  },
+  "product": {
+    "attr": {
+      "newest": "Новинка",
+      "sales": "Акция"
+    },
+    "aria": {
+      "favorite": "Нажмите чтобы добавить в избранное",
+      "cart": "Нажмите чтобы добавить в корзину",
+      "add": "Добавить в корзину",
+      "remove": "Удалить из корзины",
+      "like": "Нажмите чтобы добавить в избранное",
+      "dislike": "Нажмите чтобы удалить из избранного"
+    }
+  },
+  "categories": {
+    "modal": {
+      "title": "Все категории",
+      "closeAria": "Нажмите чтобы закрыть выбор категорий"
+    },
+    "count": "Пусто | 1 Продукт | {count} Продукта | {count} Продуктов"
+  },
+  "blocks": {
+    "promo": {
+      "discount": "Скидка",
+      "link": "Купить сейчас",
+      "carouselAria": "Галерея промо продуктов",
+      "about": {
+        "discount": {
+          "title": "Скидки",
+          "description": "Каждую неделю новые распродажи"
+        },
+        "delivery": {
+          "title": "Бесплатная доставка",
+          "description": "100% Бесплатно для всех заказов"
+        },
+        "support": {
+          "title": "Отличная поддержка",
+          "description": "Мы заботимся о ваших впечатлениях"
+        },
+        "payment": {
+          "title": "Безопасная оплата",
+          "description": "100% Безопасный способ оплаты"
+        }
+      }
+    },
+    "featured": {
+      "title": "Рекомендуемые продукты",
+      "carouselAria": "Галерея рекомендуемых продуктов"
+    },
+    "categories": {
+      "title": "Лучшие категории",
+      "carouselAria": "Галерея лучших категорий"
+    },
+    "products": {
+      "title": "Наши продукты",
+      "carouselAria": "Галерея наших продуктов"
+    },
+    "reviews": {
+      "title": "Что наши клиенты говорят о нас",
+      "carouselAria": "Галерея с отзывами о нас"
+    },
+    "newest": {
+      "title": "Недавно добавленные",
+      "carouselAria": "Галерея с недавно добавленными продуктами"
+    },
+    "footer": {
+      "description": "Vivamus tristique odio sit amet velit semper, eu posuere turpis interdum.<br>Cras egestas purus",
+      "categoriesTitle": "Категории",
+      "supportTitle": "Поддержка",
+      "newsletterTitle": "Новости",
+      "newsletterSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt erat enim.",
+      "list": {
+        "categories": [
+          { "link": "sofa", "title": "Диваны" },
+          { "link": "armchair", "title": "Кресла" },
+          { "link": "windchair", "title": "Кресла с подголовником" },
+          { "link": "deskchair", "title": "Офисные кресла" },
+          { "link": "woodenchair", "title": "Деревянные стулья" },
+          { "link": "parkbench", "title": "Скамейки" }
+        ],
+        "support": [
+          { "link": "#", "title": "Помощь & Поддержка" },
+          { "link": "#", "title": "Правила & Условия" },
+          { "link": "#", "title": "Политика Конфиденциальности" },
+          { "link": "#", "title": "Помощь" }
+        ]
+      }
+    }
+  },
+  "pages": {
+    "products": {
+      "category": {
+        "title": "Все категории"
+      },
+      "sorting": {
+        "label": "Сортировка",
+        "aria": "Открыть выпадающий список",
+        "default": "Все"
+      },
+      "filter": {
+        "title": "Фильтры",
+        "categories": "Категории",
+        "price": "Цена",
+        "ariaLabel": "Сортировка по категории",
+        "ariaList": "Список категорий",
+        "ariaOpen": "Открыть модальное окно с фильтрами продуктов",
+        "ariaClose": "Закрыть модальное окно с фильтрами продуктов"
+      },
+      "pagination": {
+        "prev": "Пред",
+        "next": "След"
+      },
+      "notFoundTitle": "Упс :(",
+      "notFoundSubtitle": "По заданным фильтрам ничего не найдено"
+    },
+    "product": {
+      "category": "Категория",
+      "description": "Описание",
+      "price": "Цена",
+      "cart": "Добавить в корзину"
+    },
+    "cart": {
+      "title": "Корзина",
+      "products": "Перейти к продуктам",
+      "count": "Нет продуктов | {count} продукт | {count} продукта | {count} продуктов",
+      "notFoundTitle": "Ваша корзина пока пуста",
+      "notFoundSubtitle": "Перейдите к каталогу продуктов",
+      "clear": "Очистить корзину",
+      "ariaDelete": "Нажмите чтобы удалить продукт из корзины",
+      "modal": {
+        "title": "Подтверждение",
+        "description": "Вы действительно хотите очистить корзину?",
+        "confirm": "Подтвердить",
+        "cancel": "Отмена",
+        "ariaClose": "Закрыть подтверждение"
+      }
+    },
+    "favorites": {
+      "title": "Избраные товары",
+      "products": "Перейти к продуктам",
+      "count": "Нет продуктов | {count} продукт | {count} продукта | {count} продуктов",
+      "notFoundTitle": "Добавьте то, что понравилось",
+      "notFoundSubtitle": "Перейдите к каталогу продуктов и нажмите на ♡ в товаре",
+      "clear": "Очистить избранное",
+      "ariaDelete": "Нажмите чтобы убрать продукт из избранных",
+      "modal": {
+        "title": "Подтверждение",
+        "description": "Вы действительно хотите очистить избранное?",
+        "confirm": "Подтвердить",
+        "cancel": "Отмена",
+        "ariaClose": "Закрыть подтверждение"
+      }
+    }
+  },
+  "carousel": {
+    "prevAria": "Перейти к предыдущему слайду",
+    "nextAria": "Перейти к следующему слайду"
+  },
+  "social": {
+    "aria": "Перейти в наш"
+  },
+  "newsletter": {
+    "inputAria": "Введите Ваш email",
+    "inputPlaceholder": "Ваш email",
+    "buttonText": "Подписаться"
+  }
+}
